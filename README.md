@@ -1,5 +1,35 @@
 # 📊 Yahoo Finance Stock Market Analysis (AAPL, MSFT, AMZN, TSLA)  
 
+<table>
+  <tr>
+    <td><img src="EDA-images/output_36_0.png" width="100"></td>
+    <td><img src="EDA-images/output_41_0.png" width="100"></td>
+    <td><img src="EDA-images/output_45_0.png" width="100"></td>
+    <td><img src="EDA-images/output_48_0.png" width="100"></td>
+    <td><img src="EDA-images/output_51_1.png" width="100"></td>
+    <td><img src="EDA-images/output_51_3.png" width="100"></td>
+    <td><img src="EDA-images/output_51_5.png" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="EDA-images/output_51_7.png" width="100"></td>
+    <td><img src="EDA-images/output_55_0.png" width="100"></td>
+    <td><img src="EDA-images/output_59_0.png" width="100"></td>
+    <td><img src="EDA-images/output_63_0.png" width="100"></td>
+    <td><img src="EDA-images/output_67_1.png" width="100"></td>
+    <td><img src="EDA-images/output_69_1.png" width="100"></td>
+    <td><img src="EDA-images/output_71_0.png" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="EDA-images/output_74_0.png" width="100"></td>
+    <td><img src="EDA-images/output_100_1.png" width="100"></td>
+    <td><img src="EDA-images/output_100_2.png" width="100"></td>
+    <td><img src="EDA-images/output_111_1.png" width="100"></td>
+    <td><img src="EDA-images/output_113_0.png" width="100"></td>
+    <td><img src="EDA-images/output_126_0.png" width="100"></td>
+    <td><img src="EDA-images/pic1.png" width="100"></td>
+  </tr>
+</table>
+
 ## 🚀 Introduction  
 
 Stock market prediction is a crucial area in financial analysis. Prices of stocks are influenced by various factors, such as market trends, economic indicators, and investor sentiment. This project focuses on analyzing and forecasting stock prices of **Apple (AAPL), Microsoft (MSFT), Amazon (AMZN), and Tesla (TSLA)** using deep learning.  
