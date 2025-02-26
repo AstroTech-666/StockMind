@@ -32,12 +32,13 @@
 
 ## 🚀 Introduction  
 
+<p align="center">
+  <img src="EDA-images/pic1.png" width="600">
+</p>
+
 Stock market prediction is a crucial area in financial analysis. Prices of stocks are influenced by various factors, such as market trends, economic indicators, and investor sentiment. This project focuses on analyzing and forecasting stock prices of **Apple (AAPL), Microsoft (MSFT), Amazon (AMZN), and Tesla (TSLA)** using deep learning.  
 
 Using **Yahoo Finance data**, we apply **Exploratory Data Analysis (EDA), Feature Engineering, Preprocessing, and Long Short-Term Memory (LSTM) Regression modeling** to predict stock prices.  
-
-
-
 
 ---
 
