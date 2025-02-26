@@ -73,8 +73,6 @@ Using **Yahoo Finance data**, we apply **Exploratory Data Analysis (EDA), Featur
 ```bash
 git clone https://github.com/gamzeakkurt/deep-learning-stock-prediction.git
 cd deep-learning-stock-prediction
-
-
 ```
 
 ### 📌 **2. Install Dependencies**  
